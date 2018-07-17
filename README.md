@@ -32,10 +32,13 @@ To      30/04/2017
 </p>
 
 ![model1predictiongraph](https://user-images.githubusercontent.com/29193001/42799400-4ecba09e-89b5-11e8-8fce-001a5d3dbc8b.png)
-Actual
-![actual model1](https://user-images.githubusercontent.com/29193001/42807110-95c1ae0e-89cd-11e8-8482-3cc780cd412a.png)
-Predicted
-![predicted model1](https://user-images.githubusercontent.com/29193001/42807118-968358ce-89cd-11e8-9b9e-ea261073dd8a.png)
+
+<figure>
+<figcaption>Actual</figcaption>
+<img src="https://user-images.githubusercontent.com/29193001/42807110-95c1ae0e-89cd-11e8-8482-3cc780cd412a.png" align="left">
+<figcaption>Predicted</figcaption>
+<img src="https://user-images.githubusercontent.com/29193001/42807118-968358ce-89cd-11e8-9b9e-ea261073dd8a.png" align="right">
+</figure>
 
 ## Model-1.2 (Removed Outliers)
 ![model2forecast](https://user-images.githubusercontent.com/29193001/42799401-4f0e7928-89b5-11e8-89fc-75c59fdc591e.png)
@@ -43,14 +46,14 @@ Predicted
 <img src="https://user-images.githubusercontent.com/29193001/42807116-964121ca-89cd-11e8-874e-10390abf9dac.png">
 </p>
 
-  Actual
-  
+![model2predictiongraph](https://user-images.githubusercontent.com/29193001/42817756-b3a82028-89ec-11e8-9bb7-dae936d78e04.png)
+
+<figure>
+<figcaption>Actual</figcaption>
 <img src="https://user-images.githubusercontent.com/29193001/42807105-94bca9b4-89cd-11e8-87c5-e6d375a23a0a.png" align="left">
-
-  Predicted
-  
+<figcaption>Predicted</figcaption>
 <img src="https://user-images.githubusercontent.com/29193001/42807109-9571db36-89cd-11e8-8dee-22775226c455.png" align="right">
-
+</figure>
 
 ## Model-1.3 (Removed Trend)
 ![model3predictiongraph](https://user-images.githubusercontent.com/29193001/42816779-8b5c4b56-89e9-11e8-935c-ce77fe199ae7.png)
@@ -61,10 +64,12 @@ Predicted
 
 ![model3graph](https://user-images.githubusercontent.com/29193001/42816780-8bb952e2-89e9-11e8-8fe6-bd630bfca2bd.png)
 
-![model3-actual](https://user-images.githubusercontent.com/29193001/42816872-d7ec421e-89e9-11e8-8096-2c74500ad7a9.png)
-
-![model3-predicted](https://user-images.githubusercontent.com/29193001/42816871-d7a87cbe-89e9-11e8-9dee-11ff2b5fcffa.png)
-
+<figure>
+<figcaption>Actual</figcaption>
+<img src="https://user-images.githubusercontent.com/29193001/42816872-d7ec421e-89e9-11e8-8096-2c74500ad7a9.png" align="left">
+<figcaption>Predicted</figcaption>
+<img src="https://user-images.githubusercontent.com/29193001/42816871-d7a87cbe-89e9-11e8-9dee-11ff2b5fcffa.png" align="left">
+</figure>
 
 
 
