@@ -27,8 +27,21 @@ To      30/04/2017
 
 ## Model-1.1
 ![model1forecast](https://user-images.githubusercontent.com/29193001/42799399-4e81755a-89b5-11e8-9414-a2b364599cb6.png)
-![model1predictiongraph](https://user-images.githubusercontent.com/29193001/42799400-4ecba09e-89b5-11e8-8fce-001a5d3dbc8b.png)
 ![model1-forecast-screenshot](https://user-images.githubusercontent.com/29193001/42807114-95fb465a-89cd-11e8-99a6-7437595d1d68.png)
+![model1predictiongraph](https://user-images.githubusercontent.com/29193001/42799400-4ecba09e-89b5-11e8-8fce-001a5d3dbc8b.png)
+Actual
+![actual model1](https://user-images.githubusercontent.com/29193001/42807110-95c1ae0e-89cd-11e8-8482-3cc780cd412a.png)
+Predicted
+![predicted model1](https://user-images.githubusercontent.com/29193001/42807118-968358ce-89cd-11e8-9b9e-ea261073dd8a.png)
+
+## Model-1.2
+![model2forecast](https://user-images.githubusercontent.com/29193001/42799401-4f0e7928-89b5-11e8-89fc-75c59fdc591e.png)
+![model2-forecast-screenshot](https://user-images.githubusercontent.com/29193001/42807116-964121ca-89cd-11e8-874e-10390abf9dac.png)
+
+Actual
+![actual model2](https://user-images.githubusercontent.com/29193001/42807105-94bca9b4-89cd-11e8-87c5-e6d375a23a0a.png)
+Predicted
+![predicted model2](https://user-images.githubusercontent.com/29193001/42807109-9571db36-89cd-11e8-8dee-22775226c455.png)
 
 
 
