@@ -7,10 +7,9 @@ Use Case: Within a firm there are technical incidents that get reported and late
 The dataset includes incidents that have occured from 2016-11-01 to 2017-04-30 
 
 The following graph plots incidents priority wise
-![slide2-2](https://user-images.githubusercontent.com/29193001/42799906-325b3e04-89b7-11e8-817b-1b46ef64cb47.png)
-<p align="center">
-  <img width="300" height="200" src="https://user-images.githubusercontent.com/29193001/42799907-32970c40-89b7-11e8-98e1-714c63526049.png">
-</p>
+<img width="600" height="380" src="https://user-images.githubusercontent.com/29193001/42799906-325b3e04-89b7-11e8-817b-1b46ef64cb47.png">
+<img width="250" height="150" align ="right" src="https://user-images.githubusercontent.com/29193001/42799907-32970c40-89b7-11e8-98e1-714c63526049.png">
+
 # Distribution Of Incidents Priority wise from 2016-11-01 to 2017-04-30 
 
 ![priority1](https://user-images.githubusercontent.com/29193001/42799386-4b10cea2-89b5-11e8-86d1-e9672e6fbe2c.png)
@@ -28,7 +27,10 @@ To      30/04/2017
 
 ## Model-1.1
 ![model1forecast](https://user-images.githubusercontent.com/29193001/42799399-4e81755a-89b5-11e8-9414-a2b364599cb6.png)
-![model1-forecast-screenshot](https://user-images.githubusercontent.com/29193001/42807114-95fb465a-89cd-11e8-99a6-7437595d1d68.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/29193001/42807114-95fb465a-89cd-11e8-99a6-7437595d1d68.png">
+</p>
+
 ![model1predictiongraph](https://user-images.githubusercontent.com/29193001/42799400-4ecba09e-89b5-11e8-8fce-001a5d3dbc8b.png)
 Actual
 ![actual model1](https://user-images.githubusercontent.com/29193001/42807110-95c1ae0e-89cd-11e8-8482-3cc780cd412a.png)
@@ -37,12 +39,15 @@ Predicted
 
 ## Model-1.2
 ![model2forecast](https://user-images.githubusercontent.com/29193001/42799401-4f0e7928-89b5-11e8-89fc-75c59fdc591e.png)
-![model2-forecast-screenshot](https://user-images.githubusercontent.com/29193001/42807116-964121ca-89cd-11e8-874e-10390abf9dac.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/29193001/42807116-964121ca-89cd-11e8-874e-10390abf9dac.png">
+  
+  Actual
+<img src="https://user-images.githubusercontent.com/29193001/42807105-94bca9b4-89cd-11e8-87c5-e6d375a23a0a.png">
 
-Actual
-![actual model2](https://user-images.githubusercontent.com/29193001/42807105-94bca9b4-89cd-11e8-87c5-e6d375a23a0a.png)
-Predicted
-![predicted model2](https://user-images.githubusercontent.com/29193001/42807109-9571db36-89cd-11e8-8dee-22775226c455.png)
+  Predicted
+<img src="https://user-images.githubusercontent.com/29193001/42807109-9571db36-89cd-11e8-8dee-22775226c455.png">
+</p>
 
 
 
