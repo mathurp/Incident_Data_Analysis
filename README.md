@@ -8,8 +8,9 @@ The dataset includes incidents that have occured from 2016-11-01 to 2017-04-30
 
 The following graph plots incidents priority wise
 ![slide2-2](https://user-images.githubusercontent.com/29193001/42799906-325b3e04-89b7-11e8-817b-1b46ef64cb47.png)
-![slide2-1](https://user-images.githubusercontent.com/29193001/42799907-32970c40-89b7-11e8-98e1-714c63526049.png)
-
+<p align="center">
+  <img width="300" height="200" src="https://user-images.githubusercontent.com/29193001/42799907-32970c40-89b7-11e8-98e1-714c63526049.png">
+</p>
 # Distribution Of Incidents Priority wise from 2016-11-01 to 2017-04-30 
 
 ![priority1](https://user-images.githubusercontent.com/29193001/42799386-4b10cea2-89b5-11e8-86d1-e9672e6fbe2c.png)
