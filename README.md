@@ -27,6 +27,7 @@ To      30/04/2017
 
 ## Model-1.1 
 ![model1forecast](https://user-images.githubusercontent.com/29193001/42799399-4e81755a-89b5-11e8-9414-a2b364599cb6.png)
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/29193001/42807114-95fb465a-89cd-11e8-99a6-7437595d1d68.png">
 </p>
@@ -35,13 +36,15 @@ To      30/04/2017
 
 <figure>
 <figcaption>Actual</figcaption>
-<img src="https://user-images.githubusercontent.com/29193001/42807110-95c1ae0e-89cd-11e8-8482-3cc780cd412a.png" align="left">
+<img src="https://user-images.githubusercontent.com/29193001/42807110-95c1ae0e-89cd-11e8-8482-3cc780cd412a.png">
 <figcaption>Predicted</figcaption>
-<img src="https://user-images.githubusercontent.com/29193001/42807118-968358ce-89cd-11e8-9b9e-ea261073dd8a.png" align="right">
+<img src="https://user-images.githubusercontent.com/29193001/42807118-968358ce-89cd-11e8-9b9e-ea261073dd8a.png">
 </figure>
+
 
 ## Model-1.2 (Removed Outliers)
 ![model2forecast](https://user-images.githubusercontent.com/29193001/42799401-4f0e7928-89b5-11e8-89fc-75c59fdc591e.png)
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/29193001/42807116-964121ca-89cd-11e8-874e-10390abf9dac.png">
 </p>
@@ -50,25 +53,26 @@ To      30/04/2017
 
 <figure>
 <figcaption>Actual</figcaption>
-<img src="https://user-images.githubusercontent.com/29193001/42807105-94bca9b4-89cd-11e8-87c5-e6d375a23a0a.png" align="left">
+<img src="https://user-images.githubusercontent.com/29193001/42807105-94bca9b4-89cd-11e8-87c5-e6d375a23a0a.png">
 <figcaption>Predicted</figcaption>
-<img src="https://user-images.githubusercontent.com/29193001/42807109-9571db36-89cd-11e8-8dee-22775226c455.png" align="right">
+<img src="https://user-images.githubusercontent.com/29193001/42807109-9571db36-89cd-11e8-8dee-22775226c455.png">
 </figure>
 
+
 ## Model-1.3 (Removed Trend)
-![model3predictiongraph](https://user-images.githubusercontent.com/29193001/42816779-8b5c4b56-89e9-11e8-935c-ce77fe199ae7.png)
+![model3graph](https://user-images.githubusercontent.com/29193001/42816780-8bb952e2-89e9-11e8-8fe6-bd630bfca2bd.png)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/29193001/42816870-d768d370-89e9-11e8-81dd-d71b96038870.png">
 </p>
 
-![model3graph](https://user-images.githubusercontent.com/29193001/42816780-8bb952e2-89e9-11e8-8fe6-bd630bfca2bd.png)
+![model3predictiongraph](https://user-images.githubusercontent.com/29193001/42816779-8b5c4b56-89e9-11e8-935c-ce77fe199ae7.png)
 
 <figure>
 <figcaption>Actual</figcaption>
-<img src="https://user-images.githubusercontent.com/29193001/42816872-d7ec421e-89e9-11e8-8096-2c74500ad7a9.png" align="left">
+<img src="https://user-images.githubusercontent.com/29193001/42816872-d7ec421e-89e9-11e8-8096-2c74500ad7a9.png">
 <figcaption>Predicted</figcaption>
-<img src="https://user-images.githubusercontent.com/29193001/42816871-d7a87cbe-89e9-11e8-9dee-11ff2b5fcffa.png" align="left">
+<img src="https://user-images.githubusercontent.com/29193001/42816871-d7a87cbe-89e9-11e8-9dee-11ff2b5fcffa.png">
 </figure>
 
 
